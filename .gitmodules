@@ -3,7 +3,7 @@
 	url = https://github.com/scrooloose/nerdtree
 [submodule "bundle/vim-rails"]
 	path = bundle/vim-rails
-	url = http://github.com/vim-rails.git
+	url = https://github.com/vim-rails.git
 [submodule "bundle/colors"]
 	path = bundle/colors
 	url = https://github.com/squil/vim_colors.git
