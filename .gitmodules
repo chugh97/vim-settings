@@ -7,3 +7,6 @@
 [submodule "bundle/vim_colors"]
 	path = bundle/vim_colors
 	url = https://github.com/squil/vim_colors.git
+[submodule "/home/shaleen/.vim/bundle/snipmate"]
+	path = /home/shaleen/.vim/bundle/snipmate
+	url = https://github.com/garbas/vim-snipmate
